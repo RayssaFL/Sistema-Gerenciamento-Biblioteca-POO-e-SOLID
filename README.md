@@ -25,7 +25,7 @@ O sistema permite controlar o empréstimo e devolução de itens do acervo (livr
 ## 🗂️ Diagrama de Classes
 
 <p align="center">
-  <img src="docs/Diagrama_Sist_Ger_Biblioteca.png" width="300">
+  <img src="docs/Diagrama_Sist_Ger_Biblioteca.png" width="600">
 </p>
 
 ## 💡 Conceitos de POO Aplicados
