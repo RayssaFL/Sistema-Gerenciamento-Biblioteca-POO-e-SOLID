@@ -1,7 +1,7 @@
 <h2 align="center">Diagrama de Classes do Sistema de Gerenciamento de Biblioteca</h2>
 
 <p align="center">
-  <img src="" width="800">
+  <img src="docs/Diagrama_Sist_Ger_Biblioteca.drawio.png" width="800">
 </p>
 
 <p align="justify">
