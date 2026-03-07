@@ -1,7 +1,7 @@
 <h2 align="center">Diagrama de Classes do Sistema de Gerenciamento de Biblioteca</h2>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/28816b4b-5896-47e8-9fd6-4df162921c57" width="800">
+  <img src="" width="800">
 </p>
 
 <p align="justify">
